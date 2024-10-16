@@ -10,8 +10,6 @@ This is a simple Tic-Tac-Toe game built using React. The project demonstrates ba
 
 ## Getting Started
 
-### 1. Install dependencies
-
 Before running the project, install all necessary dependencies by running the following command in your terminal:
 
 ```npm install```
